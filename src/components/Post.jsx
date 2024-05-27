@@ -30,7 +30,7 @@ export const Post = () => {
         component="img"
         alt="green iguana"
         height="70%"
-        image="https://images.pexels.com/photos/12434670/pexels-photo-12434670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        image="https://media.istockphoto.com/id/1483749934/de/foto/gr%C3%BCner-fidschi-leguan-auf-einem-baumstamm.jpg?s=2048x2048&w=is&k=20&c=m44i9qnaY3OL8PokItKTmRA78FEsxc00DVnLnnWZEOA="
       ></CardMedia>
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
